@@ -15,4 +15,5 @@ int main(void){
   printf("Valor numero inteiro: %i\n", numero_inteiro);
   printf("Letra digitada: %c\n", letra);
   printf("Você é foda!\n");
+  return 0;
 }
